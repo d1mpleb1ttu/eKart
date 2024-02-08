@@ -1,11 +1,5 @@
-import React from 'react'
-
 const App = () => {
-  return (
-    <div>
-      <h1>Welcome to eKart</h1>
-    </div>
-  )
-}
+  return <h1>Welcome to eKart</h1>;
+};
 
-export default App
+export default App;
